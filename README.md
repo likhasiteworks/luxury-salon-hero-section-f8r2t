@@ -1,2 +1,12 @@
-# luxury-salon-hero-section-f8r2t
-🚀 Luxury Salon Hero Section 💇‍♀️ — Built with LikhaSiteWorks
+---
+title: Luxury Salon Hero Section 💇‍♀️
+colorFrom: yellow
+colorTo: yellow
+emoji: 🚀
+tags:
+  - likhasiteworks
+---
+
+# Luxury Salon Hero Section 💇‍♀️
+
+This project has been created with [LikhaSiteWorks](https://likhawebsite.com) AI Vibe Coding.
